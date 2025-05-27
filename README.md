@@ -1,0 +1,1 @@
+This project applies SVM to predict diabetes in female patients using health metrics like glucose, BMI, and age. Data preprocessing includes handling missing values and scaling. Different kernels (linear, RBF, poly) are tuned for optimal results. The model is evaluated using accuracy, precision, recall, F1-score, and ROC-AUC to support early diagnosis and healthcare decisions.
